@@ -11,6 +11,8 @@ function HomePage() {
       <div
         className="d-inline-flex flex-column justify-content-center align-items-center w-100 p-4"
       >
+  
+
         <Link to="/beers">
           <div className="card mb-2" style={{ width: "26rem" }}>
             <img src={beersImg} className="card-img-top" alt="..." />
